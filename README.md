@@ -1,4 +1,4 @@
-# Dmoney-Rest-API-Newman
+# Dmoney-Rest-API-Newman_Report
 
 ## How to run this project
 - clone this project
